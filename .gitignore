@@ -1,0 +1,6 @@
+venv
+.idea/
+*.pyc
+__pyc__/
+*.session
+*.docx
